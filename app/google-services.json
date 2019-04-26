@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739866880144",
+    "firebase_url": "https://gykgezgin.firebaseio.com",
+    "project_id": "gykgezgin",
+    "storage_bucket": "gykgezgin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739866880144:android:e535cb494b38a04b",
+        "android_client_info": {
+          "package_name": "com.merveakgormus.gyk_gezgin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739866880144-9ns05dannttn6f3ofrihkgsj8j9he77r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLzY_MDTvDH5mu47_bQUJHkDTaZLjeWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739866880144-9ns05dannttn6f3ofrihkgsj8j9he77r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
